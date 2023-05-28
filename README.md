@@ -9,7 +9,7 @@ This is a boilerplate project for building static websites with [Vite](https://v
 - Integrated with Tailwind CSS
 - Uses Vanilla JavaScript and jQuery
 
-### Installing
+## Installing
 
 1. Clone the repository to your local machine.
 2. Run `npm install` to install all the dependencies.
@@ -18,13 +18,14 @@ This is a boilerplate project for building static websites with [Vite](https://v
 
 Run `npm run dev` to start the development server.
 
-## Building the Project
+### Building the Project
 
 Run `npm run build` to create a production build of the project. The built files will be placed in the `dist` folder.
 
-## Previewing the Build
+### Previewing the Build
 
 Run `npm run preview` to serve the production build locally and preview it in your browser.
+
 
 ---
 
