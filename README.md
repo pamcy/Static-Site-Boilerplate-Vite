@@ -1,0 +1,1 @@
+# Vite-Static-Site-Boilerplate
